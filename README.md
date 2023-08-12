@@ -1,6 +1,13 @@
 # CodeTracker
 
 
+### Status
+
+[![npm version](https://badge.fury.io/js/code-tracker.svg)](https://badge.fury.io/js/code-tracker)
+[![Build Status](https://travis-ci.com/CodeTracker-17/code-tracker.svg?branch=main)](https://travis-ci.com/CodeTracker-17/code-tracker)
+[![codecov](https://codecov.io/gh/CodeTracker-17/code-tracker/branch/main/graph/badge.svg?token=ZQZQZQZQZQ)](https://codecov.io/gh/CodeTracker-17/code-tracker)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0260fdd0-f667-464d-8e3b-98d6c46cfbf8/deploy-status)](https://app.netlify.com/sites/code-tracker-docs/deploys)
+
 CodeTracker is a TypeScript library that helps developers track, manage, and report lines of code across different files in a project. It offers utilities to track individual files, update file statistics, and retrieve code metrics.
 
 ## Features
